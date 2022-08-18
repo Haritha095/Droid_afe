@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_option" type="id">menu</item>
+    <item name="settings_menu" type="id">menu</item>
+
+</resources>
